@@ -1,8 +1,7 @@
 # 🔐 Bienvenu sur ma page Github !
 
-> 💬 **Philosophie Personnelle** : "Penser comme un hacker pour mieux protéger." 
+> 💬 **Philosophie Personnelle** : "Penser comme un hacker pour être en mesure de mieux protéger." 
 
-![Cybersecurity](https://your-image-url.com/image.png) 
 
 ---
 ### 🎓 **Qui suis-je ?**
