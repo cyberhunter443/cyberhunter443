@@ -24,9 +24,8 @@ Je developpe également des projets numériques et divers outils afin de contrib
 
 
 ### 🚀 **Projets Phares**
-Plongez dans mes laboratoires de développement, où chaque ligne de code est une ligne de défense :
-- [**Projet Audit d'un système Windows**](https://github.com/cyberhunter443/audit_windows) : Un framework révolutionnaire pour l'analyse de la sécurité.
-- [**Projet B**](https://github.com/cyberhunter443/ProjectB) : Une suite d'outils pour le renforcement de la sécurité des applications web.
+Plongez dans mes laboratoires de développement, où chaque ligne de code est une ligne de défen.
+- [**Projet Audit Windows**](https://github.com/cyberhunter443/audit_windows) :  projet d'audit système Linux intégrant les différentes fonctionnalités discutées, y compris l'audit des journaux Windows adapté à l'utilisation de dialog
 
 
 ---
