@@ -1,10 +1,9 @@
-#🔐 Bienvenu sur ma page Github 
-
-> 💬 **Philosophie Personnelle** : "Penser comme un hacker pour mieux protéger." - cyberhunter443
+# 🔐 Bienvenu sur ma page Github 
+#@cyberhunter443
+> 💬 **Philosophie Personnelle** : "Penser comme un hacker pour mieux protéger." 
 
 ---
-
-## 🎓 **Qui suis-je ?**
+### 🎓 **Qui suis-je ?**
 
 Je suis Cyberhunter443, alias l'architecte de la cybersécurité. Avec une soliden expertise en cyberenquête investigation et une passion marquée pour la sécurisation des serveurs et applications web. 
 Je developpe également des projets numériques et divers outils afin de contribuer à protéger les utilisateurs contre les menaces invisibles de demain.
@@ -23,7 +22,7 @@ Je developpe également des projets numériques et divers outils afin de contrib
 - **Bug Bounties** : Une chasseresse de bugs primée, avec un palmarès de vulnérabilités majeures neutralisées.
 
 
-## 🚀 **Projets Phares**
+### 🚀 **Projets Phares**
 Plongez dans mes laboratoires de développement, où chaque ligne de code est une ligne de défense :
 - [**Projet A**](https://github.com/cyberhunter443/ProjectA) : Un framework révolutionnaire pour l'analyse de la sécurité.
 - [**Projet B**](https://github.com/cyberhunter443/ProjectB) : Une suite d'outils pour le renforcement de la sécurité des applications web.
