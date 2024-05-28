@@ -1,6 +1,7 @@
 # Bienvenu sur ma page Github - Cyberhunter443 🔐
 
-> 💬 **Philosophie Personnelle** : "Penser comme un hacker pour mieux protéger." 
+> 💬 **Philosophie Personnelle** : "Penser comme un hacker pour mieux protéger."
+> "La sécurité n'est pas un produit, mais un processus." - Bruce Schneier
 
 
 ---
