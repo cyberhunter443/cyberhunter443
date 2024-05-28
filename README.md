@@ -14,6 +14,11 @@ Je developpe également des projets numériques et divers outils afin de contrib
 - **Consultation Stratégique** : Partenaire de confiance pour les entreprises innovantes, transformant les risques en robustesse.
 - **Formation en Cybersécurité** : Éducatrice passionnée, formant la prochaine génération de protecteurs numériques.
 
+### 🛠 Technologies
+- **Analyse de Sécurité** : Burp Suite, OWASP ZAP, Metasploit
+- **Développement Sécurisé** : Python, JavaScript, SQL
+- **Systèmes et Réseaux** : Linux, TCP/IP
+
 ### 🔗 **Engagement Communautaire**
 - **Bug Bounties** : Une chasseresse de bugs primée, avec un palmarès de vulnérabilités majeures neutralisées.
 
