@@ -2,6 +2,8 @@
 
 > 💬 **Philosophie Personnelle** : "Penser comme un hacker pour mieux protéger." 
 
+![Cybersecurity](https://your-image-url.com/image.png) 
+
 ---
 ### 🎓 **Qui suis-je ?**
 
