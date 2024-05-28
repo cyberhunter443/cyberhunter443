@@ -1,6 +1,7 @@
-# Cyberhunter443 🔐
+# Bienvenu sur ma page Github - Cyberhunter443 🔐
 
- **Déchiffrer les complexités, Sécuriser l'avenir.** 
+> 💬 **Philosophie Personnelle** : "Penser comme un hacker pour mieux protéger." 
+
 
 ---
 
@@ -31,5 +32,4 @@ Plongez dans mes laboratoires de développement, où chaque ligne de code est un
 
 ---
 
-> 💬 **Philosophie Personnelle** : "Penser comme un hacker pour mieux protéger." 
 
