@@ -1,7 +1,6 @@
-# Bienvenu sur ma page Github !
+# Bienvenu sur ma page Github ! 🔍
 
-> 💬 **Philosophie Personnelle** : "Penser comme un hacker pour être en mesure de mieux protéger." 
-
+> 💬 **Philosophie Personnelle** : "Penser comme un hacker pour être en mesure de mieux protéger." - Cyberhunter443
 
 ---
 ### 🎓 **Qui suis-je ?**
@@ -10,9 +9,9 @@ Je suis Cyberhunter443, alias l'architecte de la cybersécurité et l'investigat
 J'aime également programmer et créer différents projets numériques ainsi que divers outils pour contribuer à identifier les cyberfraudes et protéger les utilisateurs contre les menaces invisibles de demain. 
 
 ### **Compétences Clés**
-**Audits de Sécurité** : Utilisation maîtresse de techniques avancées pour détecter et neutraliser les vulnérabilités des serveurs web et applications.
-**Consultation Stratégique** : Partenaire de confiance pour les petites entreprises numériques innovantes.
-**Formation en Cybersécurité et cyberenquête** : Éducatrice passionnée, avec un intérêt pour l'investigation & Enquête Forensic, l'informatique judiciaire et le developper de techniques de prévention de cyberfraudes et cyberattaques.
+- **Audits de Sécurité** : Utilisation maîtresse de techniques avancées pour détecter et neutraliser les vulnérabilités des serveurs web et applications.
+- **Consultation Stratégique** : Partenaire de confiance pour les petites entreprises numériques innovantes.
+- **Formation en Cybersécurité et cyberenquête** : Éducatrice passionnée, avec un intérêt pour l'investigation & Enquête Forensic, l'informatique judiciaire et le developper de techniques de prévention de cyberfraudes et cyberattaques.
 
 ### 🛠 Technologies
 - **Analyse de Sécurité** : Burp Suite, OWASP, ZAP, Metasploit, Kali Linux, WireShark, Ubuntu, 
@@ -23,7 +22,7 @@ J'aime également programmer et créer différents projets numériques ainsi que
 ### **Engagement Communautaire**
 - **Bug Bounties** : Une chasseresse de bugs primée, notamment liés aux serveurs web et applications.
 - **CTF** : Participe aux divers évènements et compétitions de hacking, particulièrement ceux concernant les enquêtes OSINT et la cybersécurité
-- **CyberHunter - Page Facebook** : Page facebook destinée à identifier et à dénoncer les faux comptes sur facebook et les profils de fraudeurs sur Facebook Marketplace. 
+- **Cyberhunter - Page Facebook** : Page facebook destinée à identifier et à dénoncer les faux comptes sur facebook et les profils de fraudeurs sur Facebook Marketplace. 
 
 
 ### 🚀 **Projets Phares**
