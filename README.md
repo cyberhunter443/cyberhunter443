@@ -13,18 +13,15 @@ Avec une solide expertise en enquête numérique et une passion marquée pour la
 - **Analyse de Sécurité** : Burp Suite, OWASP, ZAP, Kali Linux, WireShark, Système Windows, etc 
 - **Développement et Programmation** : Python, Bash, Go, HTML, CSS, Outils hacking (Red Team), kali-linux,   
 - **Systèmes et Réseaux** : Linux, OSI, TCP/IP, capture de paquets, analyse de réseaux et identification d'attaques 
-- **Cybersécurité** : Cryptographie, Chiffrement de données, Stéganographie, Technique de Piratage Éthique, Pentesting, test d'intrusion, Red Team, Blue Team, audit de site web, etc.
+- **Cybersécurité** : Technique de Piratage Éthique, Pentesting, Test d'intrusion (Red Team, Blue Team), Audit de Site Web, etc.
 
 ### 🚀 Projets en Cybersécurité et lutte contre le cybercrime 
+
 Plongez dans mes laboratoires de développement et mes projets ; 
-- [**Projet Audit Système Linux**](https://github.com/cyberhunter443/audit_linux) :  projet d'audit système Linux intégrant les différentes fonctionnalités, y compris l'audit des journaux Windows adapté à l'utilisation de dialog.
-- [**OSINT cheatsheet & awesome tools**](https://github.com/cyberhunter443/cheatsheet) : Une liste organisée de moteurs de recherche impressionnants utiles pendant les tests de pénétration, les évaluations de vulnérabilité, les opérations Red/Blue Team, Bug Bounty et plus encore
+[**Projet Audit Système Linux**](https://github.com/cyberhunter443/audit_linux) :  projet d'audit système Linux intégrant les différentes fonctionnalités, y compris l'audit des journaux Windows adapté à l'utilisation de dialog.
+[**OSINT cheatsheet & awesome tools**](https://github.com/cyberhunter443/cheatsheet) : Une liste organisée de moteurs de recherche impressionnants utiles pendant les tests de pénétration, les évaluations de vulnérabilité, les opérations Red/Blue Team, Bug Bounty et plus encore
+[**Page Facebook CyberHunter**](https://www.facebook.com/share/JKT6SFrFciQnZBBA/?mibextid=LQQJ4d): Page facebook destinée à identifier et à dénoncer les faux comptes fraduleux identifiés sur facebook lors de mes investigations à travers le marketplace. Les profils de fraudeurs sont ensuite partagés sur ma page afin de prévenir les cyberfraudes. Des ressources éducatives destinée à la cybersécurité sont également partagées quotidiennement pour les utilisateurs et les petites entreprises numériques. 
 
-
-### Engagement Communautaire
-- **Bug Bounties** : Une chasseresse de bugs primée, notamment liés aux bulnérabilités web et applications.
-- **CTF** : Participe aux divers évènements et compétitions de hacking, particulièrement ceux concernant les enquêtes OSINT et les enquêtes numériques 
-- **Page Facebook CyberHunter** (https://www.facebook.com/share/JKT6SFrFciQnZBBA/?mibextid=LQQJ4d): Page facebook destinée à identifier et à dénoncer les faux comptes fraduleux identifiés sur facebook lors de mes investigations à travers le marketplace. Les profils de fraudeurs sont ensuite partagés sur ma page afin de prévenir les cyberfraudes. Des ressources éducatives destinée à la cybersécurité sont également partagées quotidiennement pour les utilisateurs et les petites entreprises numériques. 
 
 ---
 
