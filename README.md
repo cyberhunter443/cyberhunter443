@@ -1,9 +1,8 @@
 # Bienvenu sur ma page Github ! 
 
 
-### 🎓 **Qui suis-je ?**
-
-Je suis Cyberhunter, alias l'architecte de la cybersécurité et expert en cyberenquête. Avec une solide expertise en enquête numérique et une passion marquée pour la sécurisation des serveurs web et applications. J'aime également programmer et créer différents projets numériques ainsi que divers outils pour contribuer à identifier les cyberfraudes et protéger les utilisateurs contre les menaces invisibles de demain. 
+### 🎓 **Expert en cybersécurité & Web Hacking 
+Avec une solide expertise en enquête numérique et une passion marquée pour la sécurisation des serveurs web et applications. J'aime également programmer et créer différents projets numériques ainsi que divers outils pour contribuer à identifier les cyberfraudes et protéger les utilisateurs contre les menaces invisibles de demain. 
 
 ### 🔍**Compétences Clés**
 - **Audits de Sécurité Web** : Utilisation maîtresse de techniques avancées pour détecter et neutraliser les vulnérabilités des serveurs web et applications.
@@ -24,8 +23,7 @@ Je suis Cyberhunter, alias l'architecte de la cybersécurité et expert en cyber
 
 ### 🚀 ** Projets en Cybersécurité et lutte contre le cybercrime **
 Plongez dans mes laboratoires de développement et mes projets ; 
-- [**Projet Audit Linux**](https://github.com/cyberhunter443/audit_linux) :  projet d'audit système Linux intégrant les différentes fonctionnalités, y compris l'audit des journaux Windows adapté à l'utilisation de dialog.
-- [**WebHunter**](https://github.com/cyberhunter443/WebHunter) : outils conçu pour automatiser la collecte d'informations sur un domaine, les tests de pénétration, les détections de vulnérabilités, et les opérations Red/Blue Team. Il offre un accès rapide à une vaste gamme de moteurs de recherche spécialisés pour optimiser le recueil d'informations lors de la "Phase de Reconnaissance".
+- [**Projet Audit Système Linux**](https://github.com/cyberhunter443/audit_linux) :  projet d'audit système Linux intégrant les différentes fonctionnalités, y compris l'audit des journaux Windows adapté à l'utilisation de dialog.
 
 
 ---
