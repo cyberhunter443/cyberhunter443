@@ -24,7 +24,7 @@ Avec une solide expertise en enquête numérique et une passion marquée pour la
 ### 🚀 Projets en Cybersécurité et lutte contre le cybercrime 
 Plongez dans mes laboratoires de développement et mes projets ; 
 - [**Projet Audit Système Linux**](https://github.com/cyberhunter443/audit_linux) :  projet d'audit système Linux intégrant les différentes fonctionnalités, y compris l'audit des journaux Windows adapté à l'utilisation de dialog.
-- [**CheeatSheet OSINT**](https://github.com/cyberhunter443/cheatsheet) : (Awesome Osint Tools) Contient une multitude de ressources pour les enquêtes osint 
+- [**OSINT cheatsheet & awesome tools**](https://github.com/cyberhunter443/cheatsheet) : (Awesome Osint Tools) Contient une multitude de ressources pour les enquêtes osint 
 
 ---
 
