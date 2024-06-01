@@ -24,7 +24,7 @@ Plongez dans mes laboratoires de développement et mes projets ;
 ### Engagement Communautaire
 - **Bug Bounties** : Une chasseresse de bugs primée, notamment liés aux bulnérabilités web et applications.
 - **CTF** : Participe aux divers évènements et compétitions de hacking, particulièrement ceux concernant les enquêtes OSINT et les enquêtes numériques 
-- **Page Facebook CyberHunter** : Page facebook destinée à identifier et à dénoncer les faux comptes fraduleux identifiés sur facebook lors de mes investigations à travers le marketplace. Les profils de fraudeurs sont ensuite partagés sur ma page afin de prévenir les cyberfraudes. Des ressources éducatives destinée à la cybersécurité sont également partagées quotidiennement pour les utilisateurs et les petites entreprises numériques. 
+- **Page Facebook CyberHunter** (https://www.facebook.com/share/JKT6SFrFciQnZBBA/?mibextid=LQQJ4d): Page facebook destinée à identifier et à dénoncer les faux comptes fraduleux identifiés sur facebook lors de mes investigations à travers le marketplace. Les profils de fraudeurs sont ensuite partagés sur ma page afin de prévenir les cyberfraudes. Des ressources éducatives destinée à la cybersécurité sont également partagées quotidiennement pour les utilisateurs et les petites entreprises numériques. 
 
 ---
 
