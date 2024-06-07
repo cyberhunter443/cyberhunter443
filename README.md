@@ -1,7 +1,7 @@
 # Bienvenue sur ma page GitHub ! 
 
 ## 🎓 Expert en cybersécurité & Web Hacking
- Avec une expertise approfondie en cybersécurité, programmation et développement de solutions innovantes, nous anticipons et neutralisons les cyberfraudes pour un environnement numérique plus sûr et résilient.💻🔒
+ Avec une expertise approfondie en cybersécurité, programmation et développement de solutions innovantes ainsi que de projets numériques variés, nous anticipons et neutralisons les cyberfraudes pour un environnement numérique plus sûr et résilient.💻🔒
 
 ## 🛠 Technologies
 - **Analyse de Sécurité** : Burp Suite, OWASP, ZAP, Kali Linux, WireShark, Système Windows, etc 
