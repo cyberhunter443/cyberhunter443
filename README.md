@@ -1,7 +1,8 @@
 # Bienvenue sur ma page GitHub ! 
 
 ## 🎓 Expert en cybersécurité & Web Hacking
-Avec une solide expertise en enquête numérique et une passion marquée pour la sécurisation des serveurs web, je m'engage à protéger les systèmes et les utilisateurs contre les menaces numériques. J'aime programmer et créer divers projets ainsi que developper des programmes et outils innovants pour identifier les cyberfraudes à et anticiper les menaces invisibles de demain. Mon objectif est de contribuer à un environnement numérique plus sûr et plus résilient.
+Spécialiste en enquête numérique, cybersécurité et particulièrement en lien avec l la sécurité des serveurs web, CyberHunter s'engage à protéger les systèmes et utilisateurs contre les menaces numériques. 
+Avec une expertise approfondie en programmation et développement de solutions innovantes, nous anticipons et neutralisons les cyberfraudes pour un environnement numérique plus sûr et résilient.
 
 ## 🛠 Technologies
 - **Analyse de Sécurité** : Burp Suite, OWASP, ZAP, Kali Linux, WireShark, Système Windows, etc 
