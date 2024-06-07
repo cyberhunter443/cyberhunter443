@@ -1,7 +1,7 @@
 # Bienvenue sur ma page GitHub ! 
 
 ## 🎓 Expert en cybersécurité & Web Hacking
-Avec une solide expertise en enquête numérique et une passion marquée pour la sécurisation des serveurs web et applications. J'aime également programmer et créer différents projets numériques ainsi que divers outils pour contribuer à identifier les cyberfraudes et protéger les utilisateurs contre les menaces invisibles de demain. 
+Avec une solide expertise en enquête numérique et une passion marquée pour la sécurisation des serveurs web et applications, je m'engage à protéger les systèmes et les utilisateurs contre les menaces numériques. J'aime programmer et créer divers projets numériques ainsi que des outils innovants pour identifier les cyberfraudes et anticiper les menaces invisibles de demain. Mon objectif est de contribuer à un environnement numérique plus sûr et plus résilient.
 
 ## 🔍 Compétences Clés
 - **Audits de Sécurité Web** : Utilisation maîtresse de techniques avancées pour détecter et neutraliser les vulnérabilités des serveurs web et applications.
