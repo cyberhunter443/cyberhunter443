@@ -1,7 +1,6 @@
 # CyberHunter443 - Expert en Cybersécurité
 
-![Banner](![matrix-style-binary-code-digital-falling-numbers-blue-background_1017-37387](https://github.com/cyberhunter443/cyberhunter443/assets/147758167/f95c4e7c-6dd0-487d-9e40-b86da2c63781)
-)
+![Banner](https://github.com/cyberhunter443/cyberhunter443/assets/147758167/f95c4e7c-6dd0-487d-9e40-b86da2c63781)
 
 ## 👋 Bienvenue sur ma page GitHub !
 
