@@ -1,18 +1,73 @@
-# Bienvenue sur ma page GitHub ! 
+# 🚀 Consultant en Cybersécurité
 
-## 🎓 Expert en cybersécurité & Web Hacking
- Avec une expertise approfondie en cybersécurité, programmation et développement de solutions innovantes ainsi que de projets numériques variés, nous anticipons et neutralisons les cyberfraudes pour un environnement numérique plus sûr et résilient.💻🔒
+![Consultant en Cybersécurité](https://source.unsplash.com/1000x300/?cybersecurity)
 
-## 🛠 Technologies
-- **Analyse de Sécurité** : Burp Suite, OWASP, ZAP, Kali Linux, WireShark, Système Windows, etc 
-- **Développement et Programmation** : Python, Bash, Go, HTML, CSS, Outils hacking (Red Team), kali-linux,   
-- **Systèmes et Réseaux** : Linux, OSI, TCP/IP, capture de paquets, analyse de réseaux et identification d'attaques 
-- **Cybersécurité** : Technique de Piratage Éthique, Pentesting, Test d'intrusion (Red Team, Blue Team), Audit de Site Web, etc.
+## 👋 Bienvenue sur ma page GitHub !
 
-## 🚀 Projets en Cybersécurité et lutte contre le cybercrime 
-Plongez dans mes laboratoires de développement et mes projets ; 
-- [**Projet Audit Système Linux**](https://github.com/cyberhunter443/audit_linux) :  projet d'audit système Linux intégrant les différentes fonctionnalités, y compris l'audit des journaux Windows adapté à l'utilisation de dialog.
-- [**OSINT cheatsheet & awesome tools**](https://github.com/cyberhunter443/cheatsheet) : Une liste organisée de moteurs de recherche impressionnants utiles pendant les tests de pénétration, les évaluations de vulnérabilité, les opérations Red/Blue Team, Bug Bounty et plus encore
-- [**Page Facebook CyberHunter**](https://www.facebook.com/share/JKT6SFrFciQnZBBA/?mibextid=LQQJ4d): Page facebook destinée à identifier et à dénoncer les faux comptes fraduleux identifiés sur facebook lors de mes investigations à travers le marketplace. Les profils de fraudeurs sont ensuite partagés sur ma page afin de prévenir les cyberfraudes. Des ressources éducatives destinée à la cybersécurité sont également partagées quotidiennement pour les utilisateurs et les petites entreprises numériques. 
+🎓 **Expert en cybersécurité & Web Hacking**
 
 ---
+
+## 🧑‍💻 À propos de moi
+
+Avec une expertise approfondie en cybersécurité, programmation et développement de solutions innovantes ainsi que de projets numériques variés, nous anticipons et neutralisons les cyberfraudes pour un environnement numérique plus sûr et résilient. 💻🔒
+
+![Cybersecurity](https://source.unsplash.com/400x300/?cybersecurity)
+
+---
+
+## 🛠️ Technologies
+
+### 🔒 Analyse de Sécurité
+- Burp Suite
+- OWASP
+- ZAP
+- Kali Linux
+- WireShark
+- Système Windows
+
+### 💻 Développement et Programmation
+- Python
+- Bash
+- Go
+- HTML, CSS
+- Outils hacking (Red Team)
+- kali-linux
+
+### 🌐 Systèmes et Réseaux
+- Linux
+- OSI
+- TCP/IP
+- Capture de paquets
+- Analyse de réseaux
+- Identification d'attaques
+
+### 🛡️ Cybersécurité
+- Technique de Piratage Éthique
+- Pentesting
+- Test d'intrusion (Red Team, Blue Team)
+- Audit de Site Web
+
+---
+
+## 📂 Projets en Cybersécurité et lutte contre le cybercrime
+
+### 🔍 Projet Audit Système Linux
+![Project 1](https://source.unsplash.com/400x300/?security)
+Projet d'audit système Linux pour identifier et corriger les vulnérabilités.
+
+### 🔍 Projet 2
+![Project 2](https://source.unsplash.com/400x300/?data)
+Description du projet et des mesures de sécurité mises en place.
+
+
+---
+
+## 🌐 Réseaux Sociaux
+
+[![GitHub](https://img.shields.io/badge/GitHub-Consultant%20en%20Cybersécurité-181717?style=for-the-badge&logo=github)](https://github.com/cyberhunter443)
+
+
+---
+
+&copy; 2023 Consultant en Cybersécurité. Tous droits réservés.
