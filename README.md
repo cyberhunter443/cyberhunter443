@@ -1,10 +1,14 @@
-# 🚀 Consultant en Cybersécurité
+# CyberHunter443 - Expert en Cybersécurité
 
-![Consultant en Cybersécurité](https://source.unsplash.com/1000x300/?cybersecurity)
+![Banner](./mnt/data/matrix-style-binary-code-digital-falling-numbers-blue-background_1017-37387.jpg)
 
 ## 👋 Bienvenue sur ma page GitHub !
 
-🎓 **Expert en cybersécurité & Web Hacking**
+🎓 **Expert en Cybersécurité & Web Hacking**
+
+🔒 **Cybersécurité | Analyse de Sécurité | Développement et Programmation**
+
+![Logo](./mnt/data/147758167.jfif)
 
 ---
 
@@ -16,58 +20,45 @@ Avec une expertise approfondie en cybersécurité, programmation et développeme
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Compétences
 
 ### 🔒 Analyse de Sécurité
-- Burp Suite
-- OWASP
-- ZAP
-- Kali Linux
-- WireShark
-- Système Windows
+- **Outils**: Burp Suite, OWASP, ZAP, Kali Linux, WireShark
+- **Systèmes**: Windows, Linux
 
 ### 💻 Développement et Programmation
-- Python
-- Bash
-- Go
-- HTML, CSS
-- Outils hacking (Red Team)
-- kali-linux
+- **Langages**: Python, Bash, Go, HTML, CSS
+- **Outils**: Outils hacking (Red Team), Kali Linux
 
 ### 🌐 Systèmes et Réseaux
-- Linux
-- OSI
-- TCP/IP
-- Capture de paquets
-- Analyse de réseaux
-- Identification d'attaques
+- **Connaissances**: OSI, TCP/IP, capture de paquets, analyse de réseaux, identification d'attaques
 
 ### 🛡️ Cybersécurité
-- Technique de Piratage Éthique
-- Pentesting
-- Test d'intrusion (Red Team, Blue Team)
-- Audit de Site Web
+- **Techniques**: Piratage Éthique, Pentesting, Test d'intrusion (Red Team, Blue Team), Audit de Site Web
 
 ---
 
-## 📂 Projets en Cybersécurité et lutte contre le cybercrime
+## 📂 Projets en Cybersécurité et Lutte contre le Cybercrime
 
 ### 🔍 Projet Audit Système Linux
 ![Project 1](https://source.unsplash.com/400x300/?security)
 Projet d'audit système Linux pour identifier et corriger les vulnérabilités.
 
-### 🔍 Projet 2
+### 🔍 Projet Sécurisation des Données
 ![Project 2](https://source.unsplash.com/400x300/?data)
-Description du projet et des mesures de sécurité mises en place.
+Implémentation de mesures de sécurité avancées pour protéger les données sensibles.
+
 
 
 ---
 
 ## 🌐 Réseaux Sociaux
 
-[![GitHub](https://img.shields.io/badge/GitHub-Consultant%20en%20Cybersécurité-181717?style=for-the-badge&logo=github)](https://github.com/cyberhunter443)
+![Badge](./mnt/data/badge.svg)
 
+[![GitHub](https://img.shields.io/badge/GitHub-CyberHunter443-181717?style=for-the-badge&logo=github)](https://github.com/cyberhunter443)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/JKT6SFrFciQnZBBA/?mibextid=LQQJ4d)
 
 ---
 
-&copy; 2023 Consultant en Cybersécurité. Tous droits réservés.
+&copy; 2023 CyberHunter443. Tous droits réservés.
