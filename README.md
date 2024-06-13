@@ -1,12 +1,12 @@
 
-## Bienvenue sur ma page GitHub !
-🔒 **Cybersécurité | Analyse de Sécurité | Développement et Programmation**
+## Bienvenue sur ma page Github! 🔒 
+**Cybersécurité | Informatique Judiciaire | Développement et Programmation**
+
+### À propos de moi
+Avec une expertise approfondie en cybersécurité, programmation et développement de solutions innovantes ainsi que de projets numériques variés, nous anticipons et neutralisons les cyberfraudes pour un environnement numérique plus sûr et résilient. 💻🔒
 
 [![GitHub](https://img.shields.io/badge/GitHub-CyberHunter443-181717?style=for-the-badge&logo=github)](https://github.com/cyberhunter443)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/JKT6SFrFciQnZBBA/?mibextid=LQQJ4d)
-
-## À propos de moi
-Avec une expertise approfondie en cybersécurité, programmation et développement de solutions innovantes ainsi que de projets numériques variés, nous anticipons et neutralisons les cyberfraudes pour un environnement numérique plus sûr et résilient. 💻🔒
 
 ---
 ### 🔒 Analyse de Sécurité
@@ -24,7 +24,6 @@ Avec une expertise approfondie en cybersécurité, programmation et développeme
 - **Techniques**: Piratage Éthique, Pentesting, Test d'intrusion (Red Team, Blue Team), Audit de Site Web
 
 ---
-
 ## 📂 Projets en Cybersécurité et Lutte contre le Cybercrime
 
 ###🔍 [Projet Audit Système Linux](https://github.com/cyberhunter443/audit_linux)
