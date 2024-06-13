@@ -1,13 +1,13 @@
 
-## 👋 Bienvenue sur ma page GitHub !
+## Bienvenue sur ma page GitHub !
 🔒 **Cybersécurité | Analyse de Sécurité | Développement et Programmation**
 
-## 🧑‍💻 À propos de moi
+## À propos de moi
 Avec une expertise approfondie en cybersécurité, programmation et développement de solutions innovantes ainsi que de projets numériques variés, nous anticipons et neutralisons les cyberfraudes pour un environnement numérique plus sûr et résilient. 💻🔒
 
 ---
 
-## 🛠️ Compétences
+## Compétences
 
 ### 🔒 Analyse de Sécurité
 - **Outils**: Burp Suite, OWASP, ZAP, Kali Linux, WireShark
