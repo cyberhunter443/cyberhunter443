@@ -27,18 +27,14 @@ Avec une expertise approfondie en cybersécurité, programmation et développeme
 
 ## 📂 Projets en Cybersécurité et Lutte contre le Cybercrime
 
-### 🔍 Projet Audit Système Linux
-![Project 1](https://github.com/cyberhunter443/audit_linux)
+### 🔍 [Projet Audit Système Linux](https://github.com/cyberhunter443/audit_linux)
 Projet d'audit système Linux pour identifier et corriger les vulnérabilités.
 
-### 📊 OSINT cheatsheet & awesome tools
-(https://github.com/cyberhunter443/cheatsheet)
+### 📊 [OSINT cheatsheet & awesome tools](https://github.com/cyberhunter443/cheatsheet)
 Une liste organisée de moteurs de recherche impressionnants utiles pendant les tests de pénétration, les évaluations de vulnérabilité, les opérations Red/Blue Team, Bug Bounty et plus encore.
 
-### 📱 Page Facebook CyberHunter
-(https://www.facebook.com/share/JKT6SFrFciQnZBBA/?mibextid=LQQJ4d)
+### 📱 [Page Facebook CyberHunter](https://www.facebook.com/share/JKT6SFrFciQnZBBA/?mibextid=LQQJ4d)
 Page Facebook destinée à identifier et à dénoncer les faux comptes frauduleux identifiés sur Facebook lors de mes investigations à travers le marketplace. Les profils de fraudeurs sont ensuite partagés sur ma page afin de prévenir les cyberfraudes. Des ressources éducatives destinées à la cybersécurité sont également partagées quotidiennement pour les utilisateurs et les petites entreprises numériques.
-
 
 
 ---
