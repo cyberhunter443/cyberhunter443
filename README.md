@@ -1,6 +1,6 @@
 # CyberHunter443 - Expert en Cybersécurité
 
-![Banner](./mnt/data/matrix-style-binary-code-digital-falling-numbers-blue-background_1017-37387.jpg)
+![Banner](matrix-style-binary-code-digital-falling-numbers-blue-background_1017-37387.jpg)
 
 ## 👋 Bienvenue sur ma page GitHub !
 
