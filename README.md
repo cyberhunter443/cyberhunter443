@@ -1,16 +1,8 @@
-# CyberHunter443 - Expert en Cybersécurité
-
-![Banner](https://github.com/cyberhunter443/cyberhunter443/assets/147758167/f95c4e7c-6dd0-487d-9e40-b86da2c63781)
+# CyberHunter443 - Expert en Cybersécurité et Informatique Judiciaire
 
 ## 👋 Bienvenue sur ma page GitHub !
 
-🎓 **Expert en Cybersécurité & Web Hacking**
-
 🔒 **Cybersécurité | Analyse de Sécurité | Développement et Programmation**
-
-![Logo](./mnt/data/147758167.jfif)
-
----
 
 ## 🧑‍💻 À propos de moi
 
@@ -41,12 +33,16 @@ Avec une expertise approfondie en cybersécurité, programmation et développeme
 ## 📂 Projets en Cybersécurité et Lutte contre le Cybercrime
 
 ### 🔍 Projet Audit Système Linux
-![Project 1](https://source.unsplash.com/400x300/?security)
+![Project 1](https://github.com/cyberhunter443/audit_linux)
 Projet d'audit système Linux pour identifier et corriger les vulnérabilités.
 
-### 🔍 Projet Sécurisation des Données
-![Project 2](https://source.unsplash.com/400x300/?data)
-Implémentation de mesures de sécurité avancées pour protéger les données sensibles.
+### 📊 OSINT cheatsheet & awesome tools
+![Project 2](https://github.com/cyberhunter443/cheatsheet)
+Une liste organisée de moteurs de recherche impressionnants utiles pendant les tests de pénétration, les évaluations de vulnérabilité, les opérations Red/Blue Team, Bug Bounty et plus encore.
+
+### 📱 Page Facebook CyberHunter
+![Project 2](https://www.facebook.com/share/JKT6SFrFciQnZBBA/?mibextid=LQQJ4d)
+Page Facebook destinée à identifier et à dénoncer les faux comptes frauduleux identifiés sur Facebook lors de mes investigations à travers le marketplace. Les profils de fraudeurs sont ensuite partagés sur ma page afin de prévenir les cyberfraudes. Des ressources éducatives destinées à la cybersécurité sont également partagées quotidiennement pour les utilisateurs et les petites entreprises numériques.
 
 
 
