@@ -6,11 +6,10 @@
 **Cybersécurité | Informatique Judiciaire | Développement et Programmation**
 
 ### À propos de moi - 💻
-Je suis consultante en cybersécurité et informatique judiciaire, actuellement en formation d'ingénieur en cybersécurité à Polytechnique. Avec une expertise approfondie en cybersécurité, programmation, et développement de solutions innovantes, j'ai participé à de nombreux projets numériques variés, allant de la protection des données à l'investigation numérique.
 
-En tant qu'étudiante à Polytechnique, je me spécialise en ingénierie de la cybersécurité, où j'acquiers notamment des compétences avancées en matière de protection des systèmes d'information, de cryptographie, et de sécurité réseau. Cette formation rigoureuse me permet de rester à la pointe des dernières tendances et technologies en cybersécurité.
+En tant qu'étudiante à Polytechnique Montréal, je me spécialise en ingénierie de la cyberenquête et cybersécurité, où j'acquiers des compétences avancées en matière de protection des systèmes d'information, de cryptographie, et de sécurité réseau. Cette formation rigoureuse me permet de rester à la pointe des dernières tendances et technologies en cybersécurité.
 
-Ma mission est donc d'anticiper et de neutraliser les cybermenaces pour créer un environnement numérique plus sûr et résilient. Grâce à ma passion pour la sécurité informatique et ma volonté de toujours apprendre et m'adapter, je m'engage à fournir des solutions de sécurité robustes et à contribuer à la tranquillité d'esprit de mes clients et partenaires.
+Mon objectif est de continuer à développer mes compétences et mon expertise en cybersécurité et en informatique judiciaire afin de devenir une référence dans le domaine. Je suis déterminée à aider les entreprises à protéger leurs actifs numériques, à prévenir les cyberattaques, et à réagir efficacement en cas d'incident de sécurité. Grâce à ma passion pour la sécurité informatique et ma volonté de toujours apprendre et m'adapter, je m'engage à fournir des solutions de sécurité robustes et à contribuer à la prévention de la cybercriminalité dans l'univers numérique.
 
 --- 
 
@@ -41,5 +40,7 @@ Une liste organisée de moteurs de recherche impressionnants utiles pendant les 
 
 ### 📱 [Page Facebook CyberHunter](https://www.facebook.com/share/JKT6SFrFciQnZBBA/?mibextid=LQQJ4d)
 Page Facebook destinée à identifier et à dénoncer les faux comptes frauduleux identifiés sur Facebook lors de mes investigations à travers le marketplace. Les profils de fraudeurs sont ensuite partagés sur ma page afin de prévenir les cyberfraudes. Des ressources éducatives destinées à la cybersécurité sont également partagées quotidiennement pour les utilisateurs et les petites entreprises numériques. 
+
+---
 
 &copy; 2023 CyberHunter443. Tous droits réservés.
