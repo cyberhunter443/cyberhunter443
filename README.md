@@ -33,7 +33,7 @@ Mon objectif est de continuer à développer mes compétences et mon expertise e
 ## 📂 Projets en Cybersécurité et Lutte contre le Cybercrime
 
 ### 🔍 [Projet Audit Système Linux](https://github.com/cyberhunter443/audit_linux)
-Projet d'audit système Linux pour identifier et corriger les vulnérabilités.
+Projet Forensique de developpement d'un outil d'analyse permettant d'effectuer rapidement un audit de sécurité pour les systèmes Linux. Il permet notamment aux experts en cybersécurité de collecter des informations système, calculer les empruntes numeriques, de rechercher des exploits potentiels, de vérifier les droits sudo, de trouver des fichiers SUID et GUID, et bien plus encore.
 
 ### 📊 [OSINT cheatsheet & awesome tools](https://github.com/cyberhunter443/cheatsheet)
 Une liste organisée de moteurs de recherche impressionnants utiles pendant les tests de pénétration, les évaluations de vulnérabilité, les opérations Red/Blue Team, Bug Bounty et plus encore.
