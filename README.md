@@ -6,15 +6,6 @@
 
 **Cybersécurité | Informatique Judiciaire | Développement et Programmation**
 
-### À propos de moi - 💻
-
-En tant qu'étudiante à Polytechnique Montréal, je me spécialise en ingénierie de la cyberenquête et cybersécurité, où j'acquiers des compétences avancées en matière de protection des systèmes d'information, de cryptographie, et de sécurité réseau. Cette formation rigoureuse me permet de rester à la pointe des dernières tendances et technologies en cybersécurité.
-
-Mon objectif est de continuer à développer mes compétences et mon expertise en cybersécurité et en informatique judiciaire afin de devenir une référence dans le domaine. Je suis déterminée à aider les entreprises à protéger leurs actifs numériques, à prévenir les cyberattaques, et à réagir efficacement en cas d'incident de sécurité. Grâce à ma passion pour la sécurité informatique et ma volonté de toujours apprendre et m'adapter, je m'engage à fournir des solutions de sécurité robustes et à contribuer à la prévention de la cybercriminalité dans l'univers numérique.
-
---- 
-
-
 ### 🔒 Analyse de Sécurité
 - **Outils**: Burp Suite, OWASP, ZAP, Kali Linux, WireShark
 - **Systèmes**: Windows, Linux
@@ -30,6 +21,26 @@ Mon objectif est de continuer à développer mes compétences et mon expertise e
 - **Techniques**: Piratage Éthique, Pentesting, Test d'intrusion (Red Team, Blue Team), Audit de Site Web
 
 ---
+### Ce que je propose
+
+💼 Passionnée par la sécurité informatique et l'informatique judiciaire, je propose :
+
+- **Expertise en Cybersécurité :** Connaissance approfondie de la protection des systèmes d'information, avec une expérience dans la mise en œuvre de stratégies de défense avancées et la gestion des incidents de sécurité.
+
+- **Cryptographie Avancée :** Compréhension approfondie des principes cryptographiques et maîtrise des techniques de chiffrement pour garantir la confidentialité et l'intégrité des données sensibles.
+
+- **Sécurité Réseau :** Compétences avancées dans la sécurisation des réseaux, y compris la configuration et la gestion de pare-feu, ainsi que la détection et la réponse aux menaces.
+
+- **Prévention des Cyberattaques :** Approche proactive pour identifier et atténuer les vulnérabilités potentielles, réduisant ainsi le risque de cyberattaques.
+
+- **Réponse aux Incidents :** Capacité prouvée à gérer efficacement les incidents de sécurité, assurant une réponse rapide et coordonnée pour minimiser l'impact sur les systèmes et les données.
+
+- **Informatique Judiciaire :** Compétence dans la collecte, l'analyse et la présentation de preuves numériques dans le cadre d'enquêtes judiciaires et de résolutions d'incidents cybernétiques.
+
+- **Éducation et Sensibilisation :** Contribution à la sensibilisation à la sécurité informatique au sein des organisations et auprès des utilisateurs finaux pour renforcer la culture de la sécurité.
+
+---
+
 ## 📂 Projets en Cybersécurité et Lutte contre le Cybercrime
 
 ### 🔍 [Projet Audit Système Linux](https://github.com/cyberhunter443/audit_linux)
