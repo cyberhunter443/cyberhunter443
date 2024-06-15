@@ -11,7 +11,7 @@
 - **Systèmes**: Windows, Linux
 
 ### 💻 Développement et Programmation
-- **Langages**: Python, Bash, Go, HTML, CSS
+- **Langages**: Python, Bash, Go, HTML, CSS, Javascript
 - **Outils**: Outils hacking (Red Team), Kali Linux
 
 ### 🌐 Systèmes et Réseaux
