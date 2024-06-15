@@ -1,4 +1,5 @@
 [![GitHub](https://img.shields.io/badge/GitHub-CyberHunter443-181717?style=for-the-badge&logo=github)](https://github.com/cyberhunter443)
+
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/JKT6SFrFciQnZBBA/?mibextid=LQQJ4d)
 
 ## Bienvenue sur ma page Github! 🔒 
@@ -13,7 +14,6 @@ Mon objectif est de continuer à développer mes compétences et mon expertise e
 
 --- 
 
-## Compétences 
 
 ### 🔒 Analyse de Sécurité
 - **Outils**: Burp Suite, OWASP, ZAP, Kali Linux, WireShark
@@ -43,4 +43,4 @@ Page Facebook destinée à identifier et à dénoncer les faux comptes frauduleu
 
 ---
 
-&copy; 2023 CyberHunter443. Tous droits réservés.
+&copy; 2024 CyberHunter443. Tous droits réservés.
