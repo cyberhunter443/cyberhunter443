@@ -1,4 +1,4 @@
-# Bienvenue sur ma page !  🔒 💻  🛡️ 
+# Bienvenue sur ma page !  
 ![Go](https://img.shields.io/badge/Code-Go-00ADD8?logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Code-Bash-4EAA25?logo=gnu-bash&logoColor=white)
@@ -14,6 +14,8 @@
 ---
 
 ## Cybersécurité | Informatique Judiciaire | CyberEnquête
+                      
+                      - 🔒 💻 🛡️ - 
 
 ### Analyse de Sécurité et Audit de site web 
 - **Outils**: Burp Suite, OWASP, ZAP, Kali Linux, WireShark
