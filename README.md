@@ -33,6 +33,14 @@ Ce script renforce la sécurité de Windows en désactivant les protocoles et al
 
 ---
 
+![Go](https://img.shields.io/badge/Code-Go-blue)
+![Python](https://img.shields.io/badge/Code-Python-blue)
+![Bash](https://img.shields.io/badge/Code-Bash-blue)
+![PowerShell](https://img.shields.io/badge/Code-PowerShell-blue)
+![Perl](https://img.shields.io/badge/Code-Perl-blue)
+![Next.js](https://img.shields.io/badge/Code-Next.js-blue)
+![Kali Linux](https://img.shields.io/badge/Platform-Kali%20Linux-blue)
+
 
 ---
 
