@@ -1,3 +1,4 @@
+## Bienvenue sur ma page ! 
 ![Go](https://img.shields.io/badge/Code-Go-00ADD8?logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Code-Bash-4EAA25?logo=gnu-bash&logoColor=white)
@@ -8,9 +9,7 @@
 ![HackerOne Badge](https://img.shields.io/badge/HackerOne-494649?logo=hackerone&logoColor=fff&style=flat)
 ![Open Bug Bounty Badge](https://img.shields.io/badge/Open%20Bug%20Bounty-F67909?logo=openbugbounty&logoColor=fff&style=flat)
 
-## Bienvenue sur ma page ! 
 **Cybersécurité | Informatique Judiciaire | CyberEnquête**
-
 ---
 
 ### 🔒 Analyse de Sécurité et Audit de site web 
