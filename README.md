@@ -33,13 +33,13 @@ Ce script renforce la sécurité de Windows en désactivant les protocoles et al
 
 ---
 
-![Go](https://img.shields.io/badge/Code-Go-blue)
-![Python](https://img.shields.io/badge/Code-Python-blue)
-![Bash](https://img.shields.io/badge/Code-Bash-blue)
-![PowerShell](https://img.shields.io/badge/Code-PowerShell-blue)
-![Perl](https://img.shields.io/badge/Code-Perl-blue)
-![Next.js](https://img.shields.io/badge/Code-Next.js-blue)
-![Kali Linux](https://img.shields.io/badge/Platform-Kali%20Linux-blue)
+![Go](https://img.shields.io/badge/Code-Go-00ADD8?logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Code-Bash-4EAA25?logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/Code-PowerShell-5391FE?logo=powershell&logoColor=white)
+![Perl](https://img.shields.io/badge/Code-Perl-39457E?logo=perl&logoColor=white)
+![Next.js](https://img.shields.io/badge/Code-Next.js-000000?logo=next.js&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Platform-Kali%20Linux-557C94?logo=kalilinux&logoColor=white)
 
 
 ---
