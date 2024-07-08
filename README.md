@@ -1,6 +1,16 @@
 
 ## Bienvenue sur ma page ! 
-**Cybersécurité | Informatique Judiciaire | Enquêtes Informatiques**
+**Cybersécurité | Informatique Judiciaire | CyberEnquête**
+
+![Go](https://img.shields.io/badge/Code-Go-00ADD8?logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Code-Bash-4EAA25?logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/Code-PowerShell-5391FE?logo=powershell&logoColor=white)
+![Perl](https://img.shields.io/badge/Code-Perl-39457E?logo=perl&logoColor=white)
+![Next.js](https://img.shields.io/badge/Code-Next.js-000000?logo=next.js&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Platform-Kali%20Linux-557C94?logo=kalilinux&logoColor=white)
+![HackerOne Badge](https://img.shields.io/badge/HackerOne-494649?logo=hackerone&logoColor=fff&style=flat)
+![Open Bug Bounty Badge](https://img.shields.io/badge/Open%20Bug%20Bounty-F67909?logo=openbugbounty&logoColor=fff&style=flat)
 
 ---
 
@@ -34,16 +44,6 @@ Ce script renforce la sécurité de Windows en désactivant les protocoles et al
 ---
 [![GitHub](https://img.shields.io/badge/GitHub-CyberHunter443-181717?style=for-the-badge&logo=github)](https://github.com/cyberhunter443)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/JKT6SFrFciQnZBBA/?mibextid=LQQJ4d)
-
-![Go](https://img.shields.io/badge/Code-Go-00ADD8?logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Code-Bash-4EAA25?logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/Code-PowerShell-5391FE?logo=powershell&logoColor=white)
-![Perl](https://img.shields.io/badge/Code-Perl-39457E?logo=perl&logoColor=white)
-![Next.js](https://img.shields.io/badge/Code-Next.js-000000?logo=next.js&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Platform-Kali%20Linux-557C94?logo=kalilinux&logoColor=white)
-![HackerOne Badge](https://img.shields.io/badge/HackerOne-494649?logo=hackerone&logoColor=fff&style=flat)
-![Open Bug Bounty Badge](https://img.shields.io/badge/Open%20Bug%20Bounty-F67909?logo=openbugbounty&logoColor=fff&style=flat)
 
 ---
 &copy; 2024 CyberHunter443. Tous droits réservés.
