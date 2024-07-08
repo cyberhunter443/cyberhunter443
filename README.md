@@ -8,7 +8,8 @@
 ![Perl](https://img.shields.io/badge/Code-Perl-39457E?logo=perl&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Code-Next.js-000000?logo=next.js&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Platform-Kali%20Linux-557C94?logo=kalilinux&logoColor=white)
-
+![HackerOne Badge](https://img.shields.io/badge/HackerOne-494649?logo=hackerone&logoColor=fff&style=flat)
+![Open Bug Bounty Badge](https://img.shields.io/badge/Open%20Bug%20Bounty-F67909?logo=openbugbounty&logoColor=fff&style=flat)
 ## Bienvenue sur ma page ! 
 **Cybersécurité | Informatique Judiciaire | Enquêtes Informatiques**
 
