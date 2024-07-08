@@ -1,4 +1,4 @@
-# Bienvenue sur ma page ! 
+# Bienvenue sur ma page !  🔒 💻  🛡️ 
 ![Go](https://img.shields.io/badge/Code-Go-00ADD8?logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Code-Bash-4EAA25?logo=gnu-bash&logoColor=white)
@@ -13,20 +13,20 @@
 
 ---
 
-**Cybersécurité | Informatique Judiciaire | CyberEnquête**
+## Cybersécurité | Informatique Judiciaire | CyberEnquête
 
-### 🔒 Analyse de Sécurité et Audit de site web 
+### Analyse de Sécurité et Audit de site web 
 - **Outils**: Burp Suite, OWASP, ZAP, Kali Linux, WireShark
 - **Systèmes**: Windows, Linux
 
-### 💻 Développement et Programmation
+### Développement et Programmation
 - **Langages**: Python, Bash, Go, HTML, CSS, Javascript
 - **Outils**: Outils hacking (Blue Team/ Red Team), Kali Linux, Rasberry Pie, Pare-feux, Proxies, Outils de surveillance de réseau local et détection des malware, etc.
 
-### 🌐 Systèmes et Réseaux
+### Systèmes et Réseaux
 - **Connaissances**: Modèle OSI et TCP/IP, la capture et l'analyse de paquets, analyse de réseaux et détection des intrusions, identification d'attaques et technique de mitigation du risque
 
-### 🛡️ Cybersécurité
+###Cybersécurité
 - Sécurité de l'information, Piratage Éthique, Pentesting et Test d'intrusion, Cryptographie et chiffrement, Analyse et gestion du risque (Normes ISO), Enquête Forensique, Cyberinvestigation via l'OSINT, Réalisation de programme de Bug Bounty sur la plateforme HackerOne, Contribution à l'Open source et divers projets de cybersécurité.   
 
 ---
