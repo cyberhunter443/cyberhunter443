@@ -32,7 +32,7 @@ Une liste organisée de moteurs de recherche impressionnants et notamment utiles
 Ce script renforce la sécurité de Windows en désactivant les protocoles et algorithmes obsolètes pour les connexions TLS/SSL. 
 
 ---
-[https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white]
+[CodeSandBox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)
 
 ---
 
