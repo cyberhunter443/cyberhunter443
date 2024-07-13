@@ -6,8 +6,6 @@
 </div>
 
 ---
-Bonjour ! Je suis Cloé Sim, également connue sous le pseudonyme CyberHunter443. Passionnée par la cybersécurité, je possède une expertise approfondie en investigation, informatique judiciaire et cyberenquête. Je m'efforce de protéger les systèmes informatiques contre les menaces et de promouvoir une culture de sécurité robuste. En tant que participante active aux programmes de Bug Bounty, je contribue à la découverte et à la correction des vulnérabilités. De plus, via ma page Facebook dédiée, j'identifie et dénonce les faux comptes pour prévenir la cyberfraude et éduquer la communauté sur les bonnes pratiques de sécurité.
-
 ## 🛠️ Compétences
 
 <div align="center">
