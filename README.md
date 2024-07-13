@@ -1,3 +1,4 @@
+Bienvenue sur ma page ! 
 ![canvas](https://github.com/user-attachments/assets/33e06d1e-076b-4001-8ce2-33e11b3acbfb)
 
 
@@ -36,14 +37,13 @@ Une liste organisée de moteurs de recherche impressionnants et notamment utiles
 Ce script renforce la sécurité de Windows en désactivant les protocoles et algorithmes obsolètes pour les connexions TLS/SSL. 
 
 ---
+
 ### 🔧 Badges Techniques
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" alt="Go" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" alt="Go" /> 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" alt="Git" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" alt="Python" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" alt="JavaScript" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bash-colored.svg" width="36" alt="Bash" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" alt="Visual Studio Code" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" alt="HTML5" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" alt="CSS3" />
@@ -54,5 +54,6 @@ Ce script renforce la sécurité de Windows en désactivant les protocoles et al
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" alt="Linux" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" alt="Docker" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" alt="Raspberry Pi" />
+<img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" withd="36" alt="Bash" />
   
 &copy; 2024 CyberHunter443. Tous droits réservés.
