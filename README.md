@@ -8,8 +8,6 @@
 </div>
 
 
-
----
 ## Compétences 
 
 ### 🔍 Analyse de Sécurité et Audit de site web 
