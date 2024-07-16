@@ -1,33 +1,45 @@
-![Bannière cyberhunter](https://github.com/user-attachments/assets/dd7c94ab-858a-443a-8645-2eb9d6ebf0dc)
-
 <div align="center">
-  <a href="https://github.com/cyberhunter443"><img src="https://img.shields.io/badge/GitHub-CyberHunter443-181717?style=for-the-badge&logo=github"></a>
-  <a href="https://www.facebook.com/share/JKT6SFrFciQnZBBA/?mibextid=LQQJ4d"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <img src="https://github.com/user-attachments/assets/dd7c94ab-858a-443a-8645-2eb9d6ebf0dc" alt="Awesome Cheatsheet & Tools" width="100%">
 </div>
+**PowerShell** ![Langage(https://img.shields.io/badge/-Langage-green) : Utilisez PowerShell pour automatiser la gestion et la sécurité des systèmes Windows.
+
+
+
+
+## Analyse de sécurité et audit de site web
+- **Burp Suite** <img src="https://img.shields.io/badge/-Proxy-orange" alt="Proxy"> : Outil de test d'intrusion Web puissant pour détecter les vulnérabilités.
+- **OWASP ZAP** <img src="https://img.shields.io/badge/-Proxy-orange" alt="Proxy"> : Scannez et testez vos applications Web à la recherche de failles de sécurité.
+- **Wireshark** <img src="https://img.shields.io/badge/-Analyse_de_trafic-blue" alt="Analyse de trafic"> : Capturez et analysez le trafic réseau pour identifier les anomalies.
+
+## Développement et programmation
+- **Python** <img src="https://img.shields.io/badge/-Langage-green" alt="Langage"> : Automatisez des tâches de sécurité avec des scripts Python.
+- **Bash** <img src="https://img.shields.io/badge/-Langage-green" alt="Langage"> : Créez des scripts Bash pour la gestion de la sécurité système.
+- **Kali Linux** <img src="https://img.shields.io/badge/-Distro-red" alt="Distro"> : Utilisez cette distribution Linux dédiée aux tests de pénétration.
+- **Raspberry Pi** 
+![Hardware](https://img.shields.io/badge/-Hardware-red) : Utilisez Raspberry Pi pour des projets de sécurité et de réseau.
+**Visual Studio Code** ![IDE](https://img.shields.io/badge/-IDE-blue) : Un éditeur de code puissant pour le développement et les tests de sécurité.
+
+## Systèmes et réseaux
+- **Modèle OSI** <img src="https://img.shields.io/badge/-Réseau-purple" alt="Réseau"> : Comprenez les principes fondamentaux des réseaux informatiques.
+- **Wireshark** <img src="https://img.shields.io/badge/-Analyse_de_trafic-blue" alt="Analyse de trafic"> : Capturez et analysez le trafic réseau pour détecter les intrusions.
+- **Pare-feu** <img src="https://img.shields.io/badge/-Sécurité-yellow" alt="Sécurité"> : Configurez et gérez vos pare-feux pour protéger votre réseau.
+
+
+
+## 🔐 Cybersécurité - 
+- **Piratage éthique** ![Sécurité](https://img.shields.io/badge/-Sécurité-yellow) : Effectuez des tests d'intrusion pour identifier les failles de sécurité. 
+- **Forensique numérique** ![Investigation](https://img.shields.io/badge/-Investigation-gray) : Menez des enquêtes numériques pour résoudre des incidents de sécurité. 
+- **Autopsy** ![Forensique](https://img.shields.io/badge/-Forensique-lightgray) : Outil d'analyse forensique pour enquêter sur les disques durs et les systèmes de fichiers. 
+- **ExifTool** ![Métadonnées](https://img.shields.io/badge/-Métadonnées-lightgray) : Utilisez ExifTool pour extraire et analyser les métadonnées des fichiers. 
+- **OSINT** ![Renseignement](https://img.shields.io/badge/-Renseignement-brown) : Collectez des informations publiques pour cartographier vos cibles. 
+- **Serveur web (bug bounty)** ![Bug Bounty](https://img.shields.io/badge/-Bug_Bounty-blue) : Effectuez des recherches de vulnérabilités sur des serveurs web pour des programmes de bug bounty.
+
 
 ---
 
-## Bienvenue sur ma page de cybersécurité ! 
 
 
-
-#### 🔍 Analyse de Sécurité et Audit de site web 
-- **Outils**: Burp Suite, OWASP, ZAP, Kali Linux, WireShark
-- **Systèmes**: Windows, Linux
-
-#### 💻 Développement et Programmation
-- **Langages**: Python, Bash, Go, HTML, CSS, Javascript
-- **Outils**: Outils hacking (Blue Team/ Red Team), Kali Linux, Raspberry Pi, Pare-feux, Proxies, Outils de surveillance de réseau local et détection des malwares, etc.
-
-#### 🌐 Systèmes et Réseaux
-- **Connaissances**: Modèle OSI et TCP/IP, capture et analyse de paquets, analyse de réseaux et détection des intrusions, identification d'attaques et techniques de mitigation des risques
-
-#### 🛡️ Cybersécurité
-- **Domaine**: Sécurité de l'information, Piratage Éthique, Pentesting et Test d'intrusion, Cryptographie et chiffrement, Analyse et gestion du risque (Normes ISO), Enquête Forensique, Cyberinvestigation via l'OSINT, Réalisation de programme de Bug Bounty sur la plateforme HackerOne, Contribution à l'Open source et divers projets de cybersécurité.   
-
----
-
-### 📂 Projets en Cybersécurité et prévention des cyberfraudes 
+### 📂 Projets et developpement
 
 #### [Page Facebook CyberHunter](https://www.facebook.com/share/JKT6SFrFciQnZBBA/?mibextid=LQQJ4d)
 Page Facebook destinée à identifier et à dénoncer les faux comptes frauduleux, identifiés lors de mes investigations à travers le marketplace. Les profils de fraudeurs sont ensuite partagés sur ma page afin de contribuer à prévenir les cyberfraudes. Des ressources éducatives destinées à l'enseignement et au partage de savoirs liés à la cybersécurité sont également partagées quotidiennement pour les utilisateurs et petites entreprises numériques. 
@@ -42,5 +54,4 @@ Ce script bash renforce la sécurité de Windows en désactivant les protocoles 
 
 &copy; 2024 CyberHunter443. Tous droits réservés.
 
-                                                                               
 
