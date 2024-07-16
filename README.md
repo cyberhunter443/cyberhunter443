@@ -1,5 +1,4 @@
----
-title: <div align="center">  <img sr
+
 
 ---
 
@@ -13,29 +12,27 @@ title: <div align="center">  <img sr
 - **Wireshark** <img src="https://img.shields.io/badge/-Analyse_de_trafic-blue" alt="Analyse de trafic"> : Capturez et analysez le trafic réseau pour identifier les anomalies.
 
 ## Développement et programmation
-**Python** <img src="https://img.shields.io/badge/-Langage-green" alt="Langage"> : Automatisez des tâches de sécurité avec des scripts Python.
-**Bash** <img src="https://img.shields.io/badge/-Langage-green" alt="Langage"> : Créez des scripts Bash pour la gestion de la sécurité système.
-**PowerShell**
-![Langage](https://img.shields.io/badge/-Langage-green) : Utilisez PowerShell pour automatiser la gestion et la sécurité des systèmes Windows.
-**Kali Linux** <img src="https://img.shields.io/badge/-Distro-red" alt="Distro"> : Utilisez cette distribution Linux dédiée aux tests de pénétration.
-**Raspberry Pi** 
-![Hardware](https://img.shields.io/badge/-Hardware-red) : Utilisez Raspberry Pi pour des projets de sécurité et de réseau.
-**Visual Studio Code** ![IDE](https://img.shields.io/badge/-IDE-blue) : Un éditeur de code puissant pour le développement et les tests de sécurité.
+- **Python** <img src="https://img.shields.io/badge/-Langage-green" alt="Langage"> : Automatisez des tâches de sécurité avec des scripts Python.
+- **Bash** <img src="https://img.shields.io/badge/-Langage-green" alt="Langage"> : Créez des scripts Bash pour la gestion de la sécurité système.
+- **PowerShell** ![Langage](https://img.shields.io/badge/-Langage-green) : Utilisez PowerShell pour automatiser la gestion et la sécurité des systèmes Windows.
+- **Kali Linux** <img src="https://img.shields.io/badge/-Distro-red" alt="Distro"> : Utilisez cette distribution Linux dédiée aux tests de pénétration.
+- **Raspberry Pi** ![Hardware](https://img.shields.io/badge/-Hardware-red) : Utilisez Raspberry Pi pour des projets de sécurité et de réseau.
+- **Visual Studio Code** ![IDE](https://img.shields.io/badge/-IDE-blue) : Un éditeur de code puissant pour le développement et les tests de sécurité.
 
 ## Systèmes et réseaux
-**Modèle OSI** <img src="https://img.shields.io/badge/-Réseau-purple" alt="Réseau"> : Comprenez les principes fondamentaux des réseaux informatiques.
-**Wireshark** <img src="https://img.shields.io/badge/-Analyse_de_trafic-blue" alt="Analyse de trafic"> : Capturez et analysez le trafic réseau pour détecter les intrusions.
-**Pare-feu** <img src="https://img.shields.io/badge/-Sécurité-yellow" alt="Sécurité"> : Configurez et gérez vos pare-feux pour protéger votre réseau.
+- **Modèle OSI** <img src="https://img.shields.io/badge/-Réseau-purple" alt="Réseau"> : Comprenez les principes fondamentaux des réseaux informatiques.
+- **Wireshark** <img src="https://img.shields.io/badge/-Analyse_de_trafic-blue" alt="Analyse de trafic"> : Capturez et analysez le trafic réseau pour détecter les intrusions.
+- **Pare-feu** <img src="https://img.shields.io/badge/-Sécurité-yellow" alt="Sécurité"> : Configurez et gérez vos pare-feux pour protéger votre réseau.
 
 
 
 ## 🔐 Cybersécurité - 
-**Piratage éthique** ![Sécurité](https://img.shields.io/badge/-Sécurité-yellow) : Effectuez des tests d'intrusion pour identifier les failles de sécurité. 
-**Forensique numérique** ![Investigation](https://img.shields.io/badge/-Investigation-gray) : Menez des enquêtes numériques pour résoudre des incidents de sécurité. 
-**Autopsy** ![Forensique](https://img.shields.io/badge/-Forensique-lightgray) : Outil d'analyse forensique pour enquêter sur les disques durs et les systèmes de fichiers. 
-**ExifTool** ![Métadonnées](https://img.shields.io/badge/-Métadonnées-lightgray) : Utilisez ExifTool pour extraire et analyser les métadonnées des fichiers. 
-**OSINT** ![Renseignement](https://img.shields.io/badge/-Renseignement-brown) : Collectez des informations publiques pour cartographier vos cibles. 
-**Serveur web (bug bounty)** ![Bug Bounty](https://img.shields.io/badge/-Bug_Bounty-blue) : Effectuez des recherches de vulnérabilités sur des serveurs web pour des programmes de bug bounty.
+- **Piratage éthique** ![Sécurité](https://img.shields.io/badge/-Sécurité-yellow) : Effectuez des tests d'intrusion pour identifier les failles de sécurité. 
+- **Forensique numérique** ![Investigation](https://img.shields.io/badge/-Investigation-gray) : Menez des enquêtes numériques pour résoudre des incidents de sécurité. 
+- **Autopsy** ![Forensique](https://img.shields.io/badge/-Forensique-lightgray) : Outil d'analyse forensique pour enquêter sur les disques durs et les systèmes de fichiers. 
+- **ExifTool** ![Métadonnées](https://img.shields.io/badge/-Métadonnées-lightgray) : Utilisez ExifTool pour extraire et analyser les métadonnées des fichiers. 
+- **OSINT** ![Renseignement](https://img.shields.io/badge/-Renseignement-brown) : Collectez des informations publiques pour cartographier vos cibles. 
+- **Serveur web (bug bounty)** ![Bug Bounty](https://img.shields.io/badge/-Bug_Bounty-blue) : Effectuez des recherches de vulnérabilités sur des serveurs web pour des programmes de bug bounty.
 
 
 ---
