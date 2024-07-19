@@ -1,6 +1,5 @@
 
-### Bienvenue sur ma page de cybersécurité !
----
+### Bienvenue sur ma page de cybersécurité !🔐 
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/dd7c94ab-858a-443a-8645-2eb9d6ebf0dc" alt="Awesome Cheatsheet & Tools" width="100%">
@@ -8,14 +7,15 @@
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) 
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)    
+
 ---
     
-## Analyse de sécurité et audit de site web
+### Analyse de sécurité et audit de site web
 - **Burp Suite** <img src="https://img.shields.io/badge/-Proxy-orange" alt="Proxy"> : Outil de test d'intrusion Web puissant pour détecter les vulnérabilités.
 - **OWASP ZAP** <img src="https://img.shields.io/badge/-Proxy-orange" alt="Proxy"> : Scannez et testez vos applications Web à la recherche de failles de sécurité.
 - **Wireshark** <img src="https://img.shields.io/badge/-Analyse_de_trafic-blue" alt="Analyse de trafic"> : Capturez et analysez le trafic réseau pour identifier les anomalies.
 
-## Développement et programmation
+### Développement et programmation
 - **Python** <img src="https://img.shields.io/badge/-Langage-green" alt="Langage"> : Automatisez des tâches de sécurité avec des scripts Python.
 - **Bash** <img src="https://img.shields.io/badge/-Langage-green" alt="Langage"> : Créez des scripts Bash pour la gestion de la sécurité système.
 - **PowerShell** ![Langage](https://img.shields.io/badge/-Langage-green) : Utilisez PowerShell pour automatiser la gestion et la sécurité des systèmes Windows.
@@ -23,14 +23,14 @@
 - **Raspberry Pi** ![Hardware](https://img.shields.io/badge/-Hardware-red) : Utilisez Raspberry Pi pour des projets de sécurité et de réseau.
 - **Visual Studio Code** ![IDE](https://img.shields.io/badge/-IDE-blue) : Un éditeur de code puissant pour le développement et les tests de sécurité.
 
-## Systèmes et réseaux
+### Systèmes et réseaux
 - **Modèle OSI** <img src="https://img.shields.io/badge/-Réseau-purple" alt="Réseau"> : Comprenez les principes fondamentaux des réseaux informatiques.
 - **Wireshark** <img src="https://img.shields.io/badge/-Analyse_de_trafic-blue" alt="Analyse de trafic"> : Capturez et analysez le trafic réseau pour détecter les intrusions.
 - **Pare-feu** <img src="https://img.shields.io/badge/-Sécurité-yellow" alt="Sécurité"> : Configurez et gérez vos pare-feux pour protéger votre réseau.
 
 
 
-## 🔐 Cybersécurité - 
+## Cybersécurité et cyberinvestigation - 
 - **Piratage éthique** ![Sécurité](https://img.shields.io/badge/-Sécurité-yellow) : Effectuez des tests d'intrusion pour identifier les failles de sécurité. 
 - **Forensique numérique** ![Investigation](https://img.shields.io/badge/-Investigation-gray) : Menez des enquêtes numériques pour résoudre des incidents de sécurité. 
 - **Autopsy** ![Forensique](https://img.shields.io/badge/-Forensique-lightgray) : Outil d'analyse forensique pour enquêter sur les disques durs et les systèmes de fichiers. 
@@ -41,7 +41,7 @@
 
 ---
 
-### 📂 Projets et developpement
+### Projets et developpement
 
 #### [Page Facebook CyberHunter](https://www.facebook.com/share/JKT6SFrFciQnZBBA/?mibextid=LQQJ4d)
 Page Facebook destinée à identifier et à dénoncer les faux comptes frauduleux, identifiés lors de mes investigations à travers le marketplace. Les profils de fraudeurs sont ensuite partagés sur ma page afin de contribuer à prévenir les cyberfraudes. Des ressources éducatives destinées à l'enseignement et au partage de savoirs liés à la cybersécurité sont également partagées quotidiennement pour les utilisateurs et petites entreprises numériques. 
