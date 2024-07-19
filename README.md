@@ -51,7 +51,8 @@ Une liste organisée de moteurs de recherche impressionnants et notamment utiles
 #### [Windows Security Script](https://github.com/cyberhunter443/Windows-Security-Script) 
 Ce script bash renforce la sécurité de Windows en désactivant les protocoles et algorithmes obsolètes pour les connexions TLS/SSL. 
 
-### [Blogue et articles de cybersécurité](https://hackmd.io/@cyberhunter/Guide-Code-HTTP)
+#### [Création d'un Blogue et articles de cybersécurité](https://hackmd.io/@cyberhunter/Guide-Code-HTTP)
+- Guide des Codes d'état HTTP
 
 ---
 
