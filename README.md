@@ -29,7 +29,7 @@
 
 
 
-## Cybersécurité et cyberinvestigation - 
+### Cybersécurité et cyberinvestigation - 
 - **Piratage éthique** ![Sécurité](https://img.shields.io/badge/-Sécurité-yellow) : Effectuez des tests d'intrusion pour identifier les failles de sécurité. 
 - **Forensique numérique** ![Investigation](https://img.shields.io/badge/-Investigation-gray) : Menez des enquêtes numériques pour résoudre des incidents de sécurité. 
 - **Autopsy** ![Forensique](https://img.shields.io/badge/-Forensique-lightgray) : Outil d'analyse forensique pour enquêter sur les disques durs et les systèmes de fichiers. 
@@ -40,7 +40,7 @@
 
 ---
 
-### Projets et developpement
+### Projets et developpement  
 
 #### [Page Facebook CyberHunter](https://www.facebook.com/share/JKT6SFrFciQnZBBA/?mibextid=LQQJ4d)
 Page Facebook destinée à identifier et à dénoncer les faux comptes frauduleux, identifiés lors de mes investigations à travers le marketplace. Les profils de fraudeurs sont ensuite partagés sur ma page afin de contribuer à prévenir les cyberfraudes. Des ressources éducatives destinées à l'enseignement et au partage de savoirs liés à la cybersécurité sont également partagées quotidiennement pour les utilisateurs et petites entreprises numériques. 
@@ -50,6 +50,8 @@ Une liste organisée de moteurs de recherche impressionnants et notamment utiles
 
 #### [Windows Security Script](https://github.com/cyberhunter443/Windows-Security-Script) 
 Ce script bash renforce la sécurité de Windows en désactivant les protocoles et algorithmes obsolètes pour les connexions TLS/SSL. 
+
+### [Blogue et articles de cybersécurité](https://hackmd.io/@cyberhunter/Guide-Code-HTTP)
 
 ---
 
