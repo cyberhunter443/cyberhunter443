@@ -1,13 +1,9 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/dd7c94ab-858a-443a-8645-2eb9d6ebf0dc" alt="Awesome Cheatsheet & Tools" width="100%">
-</div>
+# Bienvenue sur ma page de projets en cybersécurité !!  
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) 
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)    
 
 ---
-
-# Bienvenue sur ma page de cybersécurité !  
 
 ### Analyse de sécurité et audit de site web
 - **Burp Suite** <img src="https://img.shields.io/badge/-Proxy-orange" alt="Proxy"> : Outil de test d'intrusion Web puissant pour détecter les vulnérabilités.
@@ -28,7 +24,6 @@
 - **Pare-feu** <img src="https://img.shields.io/badge/-Sécurité-yellow" alt="Sécurité"> : Configurez et gérez vos pare-feux pour protéger votre réseau.
 
 
-
 ### Cybersécurité et cyberinvestigation - 
 - **Piratage éthique** ![Sécurité](https://img.shields.io/badge/-Sécurité-yellow) : Effectuez des tests d'intrusion pour identifier les failles de sécurité. 
 - **Forensique numérique** ![Investigation](https://img.shields.io/badge/-Investigation-gray) : Menez des enquêtes numériques pour résoudre des incidents de sécurité. 
@@ -40,7 +35,7 @@
 
 ---
 
-### Projets et developpement  
+### Projets et developpement en cybersécurité et piratage éthique 
 
 #### [Page Facebook CyberHunter](https://www.facebook.com/share/JKT6SFrFciQnZBBA/?mibextid=LQQJ4d)
 Page Facebook destinée à identifier et à dénoncer les faux comptes frauduleux, identifiés lors de mes investigations à travers le marketplace. Les profils de fraudeurs sont ensuite partagés sur ma page afin de contribuer à prévenir les cyberfraudes. Des ressources éducatives destinées à l'enseignement et au partage de savoirs liés à la cybersécurité sont également partagées quotidiennement pour les utilisateurs et petites entreprises numériques. 
@@ -51,11 +46,11 @@ Une liste organisée de moteurs de recherche impressionnants et notamment utiles
 #### [Windows Security Script](https://github.com/cyberhunter443/Windows-Security-Script) 
 Ce script bash renforce la sécurité de Windows en désactivant les protocoles et algorithmes obsolètes pour les connexions TLS/SSL. 
 
-#### [Création d'un Blogue et articles de cybersécurité](https://hackmd.io/@cyberhunter/Guide-Code-HTTP)
-- Guide des Codes d'état HTTP
-
+#### [Création d'un Blogue et partage de ressources éducatives en cybersécurité](https://hackmd.io/@cyberhunter)
+- [Guide Méthode HTTP](https://hackmd.io/@cyberhunter)
+  
 ---
 
-&copy; 2024 CyberHunter443. Tous droits réservés.
+&copy; 2024 @cyberhunter443. Tous droits réservés.
 
 
