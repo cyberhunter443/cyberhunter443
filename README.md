@@ -33,10 +33,9 @@
 - **OSINT** ![Renseignement](https://img.shields.io/badge/-Renseignement-brown) : Collectez des informations publiques pour cartographier vos cibles. 
 - **Serveur web (bug bounty)** ![Bug Bounty](https://img.shields.io/badge/-Bug_Bounty-blue) : Effectuez des recherches de vulnérabilités sur des serveurs web pour des programmes de bug bounty.
 
-
 ---
 
-### Projets et developpement en cybersécurité et piratage éthique 
+### Projets et developpement
 
 #### [Page Facebook CyberHunter](https://www.facebook.com/share/JKT6SFrFciQnZBBA/?mibextid=LQQJ4d)
 Page Facebook destinée à identifier et à dénoncer les faux comptes frauduleux, identifiés lors de mes investigations à travers le marketplace. Les profils de fraudeurs sont ensuite partagés sur ma page afin de contribuer à prévenir les cyberfraudes. Des ressources éducatives destinées à l'enseignement et au partage de savoirs liés à la cybersécurité sont également partagées quotidiennement pour les utilisateurs et petites entreprises numériques. 
@@ -47,7 +46,7 @@ Une liste organisée de moteurs de recherche impressionnants et notamment utiles
 #### [Windows Security Script](https://github.com/cyberhunter443/Windows-Security-Script) 
 Ce script bash renforce la sécurité de Windows en désactivant les protocoles et algorithmes obsolètes pour les connexions TLS/SSL. 
 
-#### [Création d'un Blogue et partage de ressources éducatives en cybersécurité](https://hackmd.io/@cyberhunter)
+#### [Création d'un Blogue et ressources éducatives en cybersécurité](https://hackmd.io/@cyberhunter)
 - [Guide Méthode HTTP](https://hackmd.io/@cyberhunter)
   
 ---
