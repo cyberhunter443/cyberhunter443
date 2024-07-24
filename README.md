@@ -12,7 +12,7 @@
 - **OWASP ZAP** <img src="https://img.shields.io/badge/-Proxy-orange" alt="Proxy"> : Scannez et testez vos applications Web à la recherche de failles de sécurité.
 - **Wireshark** <img src="https://img.shields.io/badge/-Analyse_de_trafic-blue" alt="Analyse de trafic"> : Capturez et analysez le trafic réseau pour identifier les anomalies.
 
-### Développement et programmation
+### Code et programmation
 - **Python** <img src="https://img.shields.io/badge/-Langage-green" alt="Langage"> : Automatisez des tâches de sécurité avec des scripts Python.
 - **Bash** <img src="https://img.shields.io/badge/-Langage-green" alt="Langage"> : Créez des scripts Bash pour la gestion de la sécurité système.
 - **PowerShell** ![Langage](https://img.shields.io/badge/-Langage-green) : Utilisez PowerShell pour automatiser la gestion et la sécurité des systèmes Windows.
