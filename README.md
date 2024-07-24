@@ -1,4 +1,5 @@
-![header-image](https://img.freepik.com/vecteurs-libre/concept-cybersecurite_23-2148530843.jpg?w=996&t=st=1721759808~exp=1721760408~hmac=0b2b542a0c3e14032edf33269d4ce1e2efd14d51e07e1e089c6bf3d90e676c80)
+## ![header-image](https://img.freepik.com/vecteurs-libre/concept-cybersecurite_23-2148530843.jpg?w=996&t=st=1721759808~exp=1721760408~hmac=0b2b542a0c3e14032edf33269d4ce1e2efd14d51e07e1e089c6bf3d90e676c80)
+
 # Bienvenue sur ma page de projets en cybersécurité !!  
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) 
@@ -35,20 +36,20 @@
 
 ---
 
-### Projets et developpement
+### Mes projets et developpement d'outils 
 
 #### [Page Facebook CyberHunter](https://www.facebook.com/share/JKT6SFrFciQnZBBA/?mibextid=LQQJ4d)
 Page Facebook destinée à identifier et à dénoncer les faux comptes frauduleux, identifiés lors de mes investigations à travers le marketplace. Les profils de fraudeurs sont ensuite partagés sur ma page afin de contribuer à prévenir les cyberfraudes. Des ressources éducatives destinées à l'enseignement et au partage de savoirs liés à la cybersécurité sont également partagées quotidiennement pour les utilisateurs et petites entreprises numériques. 
 
 #### [OSINT cheatsheet & awesome tools](https://github.com/cyberhunter443/cheatsheet)
-Une liste organisée de moteurs de recherche impressionnants et notamment utiles pendant les tests de pénétration, les évaluations de vulnérabilité, les opérations Red/Blue Team, Bug Bounty et plus encore.
+Une liste organisée de moteurs de recherche impressionnants et notamment utiles fréquemment pendant les tests de pénétration, les évaluations de vulnérabilité, les opérations Red/Blue Team, Bug Bounty et plus encore.
 
 #### [Windows Security Script](https://github.com/cyberhunter443/Windows-Security-Script) 
 Ce script bash renforce la sécurité de Windows en désactivant les protocoles et algorithmes obsolètes pour les connexions TLS/SSL. 
 
 #### [Création d'un Blogue et ressources éducatives en cybersécurité](https://hackmd.io/@cyberhunter)
-- [Guide Méthode HTTP](https://hackmd.io/@cyberhunter)
-  
+Rejoindre notre blog dédié à l'actualité et aux tendances de la cybersécurité. Que vous soyez un professionnel, un étudiant ou simplement curieux, vous trouverez sur notre blog une mine d'informations, d'analyses et de conseils pour vous tenir informé et rester en sécurité dans le monde numérique. Je partage des ressources et publie régulièrement des articles ainsi que des guides numériques destinés aux utilisateurs de niveau plus avancés. 
+ 
 ---
 
 &copy; 2024 @cyberhunter443. Tous droits réservés.
