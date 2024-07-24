@@ -8,6 +8,7 @@
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)    
 
 ---
+![header-image](https://img.freepik.com/vecteurs-libre/concept-cybersecurite_23-2148530843.jpg?w=996&t=st=1721759808~exp=1721760408~hmac=0b2b542a0c3e14032edf33269d4ce1e2efd14d51e07e1e089c6bf3d90e676c80)
 
 ### Analyse de sécurité et audit de site web
 - **Burp Suite** <img src="https://img.shields.io/badge/-Proxy-orange" alt="Proxy"> : Outil de test d'intrusion Web puissant pour détecter les vulnérabilités.
