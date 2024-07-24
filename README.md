@@ -36,18 +36,18 @@
 
 ---
 
-### Mes projets et developpement d'outils 
+### Projets et Développement 
 
-#### [Page Facebook CyberHunter](https://www.facebook.com/share/JKT6SFrFciQnZBBA/?mibextid=LQQJ4d)
+  -   [Page Facebook CyberHunter](https://www.facebook.com/share/JKT6SFrFciQnZBBA/?mibextid=LQQJ4d)
 Page Facebook destinée à identifier et à dénoncer les faux comptes frauduleux, identifiés lors de mes investigations à travers le marketplace. Les profils de fraudeurs sont ensuite partagés sur ma page afin de contribuer à prévenir les cyberfraudes. Des ressources éducatives destinées à l'enseignement et au partage de savoirs liés à la cybersécurité sont également partagées quotidiennement pour les utilisateurs et petites entreprises numériques. 
 
-#### [OSINT cheatsheet & awesome tools](https://github.com/cyberhunter443/cheatsheet)
+  -   [OSINT cheatsheet & awesome tools](https://github.com/cyberhunter443/cheatsheet)
 Une liste organisée de moteurs de recherche impressionnants et notamment utiles fréquemment pendant les tests de pénétration, les évaluations de vulnérabilité, les opérations Red/Blue Team, Bug Bounty et plus encore.
 
-#### [Windows Security Script](https://github.com/cyberhunter443/Windows-Security-Script) 
+  -   [Windows Security Script](https://github.com/cyberhunter443/Windows-Security-Script) 
 Ce script bash renforce la sécurité de Windows en désactivant les protocoles et algorithmes obsolètes pour les connexions TLS/SSL. 
 
-#### [Création d'un Blogue et ressources éducatives en cybersécurité](https://hackmd.io/@cyberhunter)
+  -   [Partage d'articles, guides et autres ressources éducatives en cybersécurité](https://hackmd.io/@cyberhunter)
 Rejoindre notre blog dédié à l'actualité et aux tendances de la cybersécurité. Que vous soyez un professionnel, un étudiant ou simplement curieux, vous trouverez sur notre blog une mine d'informations, d'analyses et de conseils pour vous tenir informé et rester en sécurité dans le monde numérique. Je partage des ressources et publie régulièrement des articles ainsi que des guides numériques destinés aux utilisateurs de niveau plus avancés. 
  
 ---
