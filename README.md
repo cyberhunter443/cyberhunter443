@@ -47,14 +47,15 @@ Une liste organisée de moteurs de recherche impressionnants et notamment utiles
 
   -   [Windows Security Script](https://github.com/cyberhunter443/Windows-Security-Script) 
 
-  -   [Blogue et Articles en cybersécurité](https://hackmd.io/@cyberhunter/Blogue)
+### Guides, Ressources et publications en cybersécurité
+[Blogue - Cyberhunter](https://hackmd.io/@cyberhunter/Blogue)
 Rejoindre notre blog dédié à l'actualité et aux tendances de la cybersécurité. Que vous soyez un professionnel, un étudiant ou simplement curieux, vous trouverez sur notre blog une mine d'informations, d'analyses et de conseils pour vous tenir informé et rester en sécurité dans le monde numérique. Je partage des ressources et publie régulièrement des articles ainsi que des guides numériques destinés aux utilisateurs de niveau plus avancés. 
 
-**Publications**
-- [Guide méthode HTTP & liste des codes d'erreurs](https://hackmd.io/@cyberhunter/Guide-Code-HTTP)
-- [Configuration d'un environnement sécurisé avec Rasberry Pi (système linux)](https://hackmd.io/@cyberhunter/rasberry-pi)
-- [Audit Système Windows](https://hackmd.io/@cyberhunter/audit-system-windows)
-- [Attaque par hameconnage](https://hackmd.io/@cyberhunter/hameconnage) 
+** Mes Publications**
+- [Guide Méthode HTTP et Cheatsheet des codes d'erreurs](https://hackmd.io/@cyberhunter/Guide-Code-HTTP)
+- [Configuration sécurisé avec Rasberry Pi(système linux)](https://hackmd.io/@cyberhunter/rasberry-pi)
+- [Auditer son système Windows](https://hackmd.io/@cyberhunter/audit-system-windows)
+- [hameconnage & prévention](https://hackmd.io/@cyberhunter/hameconnage) 
 
 ---
 
