@@ -48,12 +48,13 @@ Une liste organisée de moteurs de recherche impressionnants et notamment utiles
   -   [Windows Security Script](https://github.com/cyberhunter443/Windows-Security-Script) 
 
 ### Guides, Ressources et publications en cybersécurité
-[Blogue - Cyberhunter](https://hackmd.io/@cyberhunter/Blogue)
+[Blogue](https://hackmd.io/@cyberhunter/Blogue)
 
 Rejoindre notre blog dédié à l'actualité et aux tendances de la cybersécurité. Que vous soyez un professionnel, un étudiant ou simplement curieux, vous trouverez sur notre blog une mine d'informations, d'analyses et de conseils pour vous tenir informé et rester en sécurité dans le monde numérique. Je partage des ressources et publie régulièrement des articles ainsi que des guides numériques destinés aux utilisateurs de niveau plus avancés. 
+
 ![Bannière](https://github.com/user-attachments/assets/058044e4-0c52-4306-98a5-d6adb4efe2f7)
 
-** Mes Publications**
+
 - [Guide Méthode HTTP et Cheatsheet des codes d'erreurs](https://hackmd.io/@cyberhunter/Guide-Code-HTTP)
 - [Configuration sécurisé avec Rasberry Pi(système linux)](https://hackmd.io/@cyberhunter/rasberry-pi)
 - [Auditer son système Windows](https://hackmd.io/@cyberhunter/audit-system-windows)
