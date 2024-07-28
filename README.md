@@ -53,6 +53,6 @@ Rejoindre notre blog dédié à l'actualité et aux tendances de la cybersécuri
  
 ---
 
-&copy; 2024 @cyberhunter443. Tous droits réservés.
+&copy; 2024 cyberhunter443. Tous droits réservés.
 
 
