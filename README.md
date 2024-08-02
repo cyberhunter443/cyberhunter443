@@ -53,11 +53,14 @@ Rejoindre notre blog dédié à l'actualité et aux tendances de la cybersécuri
 
 ![Bannière](https://github.com/user-attachments/assets/058044e4-0c52-4306-98a5-d6adb4efe2f7)
 
-[Mon Blogue](https://hackmd.io/@cyberhunter/Blogue)
-- [Guide Méthode HTTP et Cheatsheet des codes d'erreurs](https://hackmd.io/@cyberhunter/Guide-Code-HTTP)
-- [Configuration sécurisé avec Rasberry Pi(système linux)](https://hackmd.io/@cyberhunter/rasberry-pi)
-- [Auditer son système Windows](https://hackmd.io/@cyberhunter/audit-system-windows)
-- [hameconnage & prévention](https://hackmd.io/@cyberhunter/hameconnage) 
+### **Articles et Publications**
+* [Guide méthode HTTP & liste des codes d'erreurs](https://hackmd.io/@cyberhunter/Guide-Code-HTTP)
+* [Configuration d'un environnement sécurisé avec Rasberry Pi (système linux)](https://hackmd.io/@cyberhunter/rasberry-pi)
+* [Auditer son Système Windows](https://hackmd.io/@cyberhunter/audit-system-windows)
+* [Commandes utiles avec PowerShell](https://hackmd.io/@cyberhunter/cheatsheet-windows)
+* [Reconnaitre et éviter les attaque par hameconnage](https://hackmd.io/@cyberhunter/phishing)
+- [CheatSheet cyberhunter](https://hackmd.io/@cyberhunter/my-tools)
+- [Guide des commandes Curl](https://hackmd.io/@cyberhunter/guide-curl) 
 
 ---
 
