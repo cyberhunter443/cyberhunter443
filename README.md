@@ -66,6 +66,7 @@ Rejoignez notre blog dédié à l'actualité et aux tendances de la cybersécuri
 - [CheatSheet cyberhunter](https://hackmd.io/@cyberhunter/my-tools)
 - [Guide des commandes Curl](https://hackmd.io/@cyberhunter/guide-curl)
 - [Liste d'outils pour la protection de la vie privée](https://hackmd.io/@cyberhunter/cheatsheet-privacy)
+- [Guide d’Énumération de sous-domain](https://hackmd.io/@cyberhunter/KyUtTjKxS667A9pni4gbNQ)
 
 ---
 
