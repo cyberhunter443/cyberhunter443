@@ -38,33 +38,38 @@ Bienvenue sur ma page !
 
 ---
 
-### Projets et Développement 
+---
 
-  -   [Facebook](https://www.facebook.com/share/JKT6SFrFciQnZBBA/?mibextid=LQQJ4d)
-Page Facebook destinée à identifier et à dénoncer les faux comptes frauduleux, identifiés lors de mes investigations à travers le marketplace. Les profils de fraudeurs sont ensuite partagés sur ma page afin de contribuer à prévenir les cyberfraudes. Des ressources éducatives destinées à l'enseignement et au partage de savoirs liés à la cybersécurité sont également partagées quotidiennement pour les utilisateurs et petites entreprises numériques. 
+## 🚀 Projets et Développement
 
-  -   [OSINT cheatsheet & Awesome Tools](https://github.com/cyberhunter443/cheatsheet)
-Une liste organisée de moteurs de recherche impressionnants et notamment utiles fréquemment pendant les tests de pénétration, les évaluations de vulnérabilité, les opérations Red/Blue Team, Bug Bounty et plus encore.
+### ![Facebook](https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white) [Facebook Page](https://www.facebook.com/share/JKT6SFrFciQnZBBA/?mibextid=LQQJ4d)
+**Description**: Page Facebook destinée à identifier et à dénoncer les faux comptes frauduleux, identifiés lors de mes investigations à travers le marketplace. Les profils de fraudeurs sont ensuite partagés sur ma page afin de contribuer à prévenir les cyberfraudes. Des ressources éducatives destinées à l'enseignement et au partage de savoirs liés à la cybersécurité sont également partagées quotidiennement pour les utilisateurs et petites entreprises numériques.
 
-  -   [Windows Security Script](https://github.com/cyberhunter443/Windows-Security-Script) 
+### ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) [OSINT cheatsheet & Awesome Tools](https://github.com/cyberhunter443/cheatsheet)
+**Description**: Une liste organisée de moteurs de recherche impressionnants et notamment utiles fréquemment pendant les tests de pénétration, les évaluations de vulnérabilité, les opérations Red/Blue Team, Bug Bounty et plus encore.
 
-### Guides, Ressources et publications en cybersécurité
+### ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) [Windows Security Script](https://github.com/cyberhunter443/Windows-Security-Script)
+**Description**: Scripts et outils pour améliorer la sécurité des systèmes Windows.
 
-Rejoindre notre blog dédié à l'actualité et aux tendances de la cybersécurité. Que vous soyez un professionnel, un étudiant ou simplement curieux, vous trouverez sur notre blog une mine d'informations, d'analyses et de conseils pour vous tenir informé et rester en sécurité dans le monde numérique. Je partage des ressources et publie régulièrement des articles ainsi que des guides numériques destinés aux utilisateurs de niveau plus avancés. 
+---
 
-![Bannière](https://github.com/user-attachments/assets/058044e4-0c52-4306-98a5-d6adb4efe2f7)
+## 📚 Guides, Ressources et publications en cybersécurité
+
+Rejoignez notre blog dédié à l'actualité et aux tendances de la cybersécurité. Que vous soyez un professionnel, un étudiant ou simplement curieux, vous trouverez sur notre blog une mine d'informations, d'analyses et de conseils pour vous tenir informé et rester en sécurité dans le monde numérique. Je partage des ressources et publie régulièrement des articles ainsi que des guides numériques destinés aux utilisateurs de niveau plus avancé.
 
 ### **Articles et Publications**
-* [Guide méthode HTTP & liste des codes d'erreurs](https://hackmd.io/@cyberhunter/Guide-Code-HTTP)
-* [Configuration d'un environnement sécurisé avec Rasberry Pi (système linux)](https://hackmd.io/@cyberhunter/rasberry-pi)
-* [Auditer son Système Windows](https://hackmd.io/@cyberhunter/audit-system-windows)
-* [Commandes utiles avec PowerShell](https://hackmd.io/@cyberhunter/cheatsheet-windows)
-* [Reconnaitre et éviter les attaque par hameconnage](https://hackmd.io/@cyberhunter/phishing)
+- [Guide méthode HTTP & liste des codes d'erreurs](https://hackmd.io/@cyberhunter/Guide-Code-HTTP)
+- [Configuration d'un environnement sécurisé avec Rasberry Pi (système linux)](https://hackmd.io/@cyberhunter/rasberry-pi)
+- [Auditer son Système Windows](https://hackmd.io/@cyberhunter/audit-system-windows)
+- [Commandes utiles avec PowerShell](https://hackmd.io/@cyberhunter/cheatsheet-windows)
+- [Reconnaitre et éviter les attaques par hameçonnage](https://hackmd.io/@cyberhunter/phishing)
 - [CheatSheet cyberhunter](https://hackmd.io/@cyberhunter/my-tools)
-- [Guide des commandes Curl](https://hackmd.io/@cyberhunter/guide-curl) 
+- [Guide des commandes Curl](https://hackmd.io/@cyberhunter/guide-curl)
+- [Liste d'outils pour la protection de la vie privée](https://hackmd.io/@cyberhunter/cheatsheet-privacy)
 
 ---
 
 &copy; 2024 cyberhunter443. Tous droits réservés.
+
 
 
