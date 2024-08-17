@@ -1,8 +1,4 @@
-
-
-![cyberhunter](https://github.com/user-attachments/assets/27eb14fa-aaa9-4e3c-b850-47c11dbcc513)
-
-Bienvenue sur ma page !
+# Bienvenue sur ma page !!
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) 
@@ -38,9 +34,7 @@ Bienvenue sur ma page !
 
 ---
 
----
-
-## 🚀 Projets et Développement
+## 🚀 Projets et Développement d'outils 
 
 ### ![Facebook](https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white) [Facebook Page](https://www.facebook.com/share/JKT6SFrFciQnZBBA/?mibextid=LQQJ4d)
 **Description**: Page Facebook destinée à identifier et à dénoncer les faux comptes frauduleux, identifiés lors de mes investigations à travers le marketplace. Les profils de fraudeurs sont ensuite partagés sur ma page afin de contribuer à prévenir les cyberfraudes. Des ressources éducatives destinées à l'enseignement et au partage de savoirs liés à la cybersécurité sont également partagées quotidiennement pour les utilisateurs et petites entreprises numériques.
@@ -51,10 +45,10 @@ Bienvenue sur ma page !
 ### ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) [Windows Security Script](https://github.com/cyberhunter443/Windows-Security-Script)
 **Description**: Scripts et outils pour améliorer la sécurité des systèmes Windows.
 
+
 ---
 
 ## 📚 Guides, Ressources et publications en cybersécurité
-
 Rejoignez notre blog dédié à l'actualité et aux tendances de la cybersécurité. Que vous soyez un professionnel, un étudiant ou simplement curieux, vous trouverez sur notre blog une mine d'informations, d'analyses et de conseils pour vous tenir informé et rester en sécurité dans le monde numérique. Je partage des ressources et publie régulièrement des articles ainsi que des guides numériques destinés aux utilisateurs de niveau plus avancé.
 
 ### **Articles et Publications**
